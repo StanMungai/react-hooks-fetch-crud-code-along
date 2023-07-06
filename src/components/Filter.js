@@ -14,7 +14,7 @@ function Filter({ category, onCategoryChange }) {
         <option value="Dessert">Dessert</option>
       </select>
     </div>
-  );
+  ); 
 }
 
 export default Filter;
